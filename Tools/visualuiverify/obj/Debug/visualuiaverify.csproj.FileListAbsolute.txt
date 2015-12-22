@@ -1,0 +1,15 @@
+d:\Downloads\uiautomationverify-94877\UIAVerify\bin\debug\VisualUIAVerify.exe
+d:\Downloads\uiautomationverify-94877\UIAVerify\bin\debug\VisualUIAVerify.pdb
+d:\Downloads\uiautomationverify-94877\UIAVerify\Tools\visualuiverify\obj\Debug\visualuiaverify.csprojResolveAssemblyReference.cache
+d:\Downloads\uiautomationverify-94877\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Controls.AutomationElementPropertyGrid.resources
+d:\Downloads\uiautomationverify-94877\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Controls.AutomationElementTreeControl.resources
+d:\Downloads\uiautomationverify-94877\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Controls.AutomationTestsControl.resources
+d:\Downloads\uiautomationverify-94877\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Controls.TestResultsControl.resources
+d:\Downloads\uiautomationverify-94877\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Forms.AboutWindow.resources
+d:\Downloads\uiautomationverify-94877\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Forms.MainWindow.resources
+d:\Downloads\uiautomationverify-94877\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Forms.RunningTestsWindow.resources
+d:\Downloads\uiautomationverify-94877\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Properties.Resources.resources
+d:\Downloads\uiautomationverify-94877\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.VisualUIAVerifyResources.resources
+d:\Downloads\uiautomationverify-94877\UIAVerify\Tools\visualuiverify\obj\Debug\visualuiaverify.csproj.GenerateResource.Cache
+d:\Downloads\uiautomationverify-94877\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.exe
+d:\Downloads\uiautomationverify-94877\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.pdb

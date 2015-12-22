@@ -1,0 +1,5 @@
+d:\Downloads\uiautomationverify-94877\UIAVerify\IQueryString\bin\debug\IQueryString.dll
+d:\Downloads\uiautomationverify-94877\UIAVerify\IQueryString\bin\debug\IQueryString.pdb
+d:\Downloads\uiautomationverify-94877\UIAVerify\IQueryString\obj\Release\IQueryString.csprojResolveAssemblyReference.cache
+d:\Downloads\uiautomationverify-94877\UIAVerify\IQueryString\obj\Release\IQueryString.dll
+d:\Downloads\uiautomationverify-94877\UIAVerify\IQueryString\obj\Release\IQueryString.pdb

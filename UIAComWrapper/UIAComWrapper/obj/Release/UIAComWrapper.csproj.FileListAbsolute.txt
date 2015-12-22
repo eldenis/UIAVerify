@@ -1,0 +1,5 @@
+d:\Downloads\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\bin\release\UIAComWrapper.dll
+d:\Downloads\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\bin\release\UIAComWrapper.pdb
+d:\Downloads\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Release\UIAComWrapper.csprojResolveAssemblyReference.cache
+d:\Downloads\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Release\UIAComWrapper.dll
+d:\Downloads\uiautomationverify-94877\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Release\UIAComWrapper.pdb

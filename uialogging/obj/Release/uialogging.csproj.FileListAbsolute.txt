@@ -1,0 +1,4 @@
+d:\Downloads\uiautomationverify-94877\UIAVerify\bin\release\UIALogging.dll
+d:\Downloads\uiautomationverify-94877\UIAVerify\bin\release\UIALogging.pdb
+d:\Downloads\uiautomationverify-94877\UIAVerify\uialogging\obj\Release\UIALogging.dll
+d:\Downloads\uiautomationverify-94877\UIAVerify\uialogging\obj\Release\UIALogging.pdb

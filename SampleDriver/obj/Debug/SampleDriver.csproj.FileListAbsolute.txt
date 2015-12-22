@@ -1,0 +1,5 @@
+d:\Downloads\uiautomationverify-94877\UIAVerify\bin\debug\SampleDriver.exe
+d:\Downloads\uiautomationverify-94877\UIAVerify\bin\debug\SampleDriver.pdb
+d:\Downloads\uiautomationverify-94877\UIAVerify\SampleDriver\obj\Debug\SampleDriver.csprojResolveAssemblyReference.cache
+d:\Downloads\uiautomationverify-94877\UIAVerify\SampleDriver\obj\Debug\SampleDriver.exe
+d:\Downloads\uiautomationverify-94877\UIAVerify\SampleDriver\obj\Debug\SampleDriver.pdb

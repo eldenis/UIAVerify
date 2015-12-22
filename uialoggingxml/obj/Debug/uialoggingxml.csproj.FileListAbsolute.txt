@@ -1,0 +1,5 @@
+d:\Downloads\uiautomationverify-94877\UIAVerify\bin\debug\uialoggerxml.dll
+d:\Downloads\uiautomationverify-94877\UIAVerify\bin\debug\uialoggerxml.pdb
+d:\Downloads\uiautomationverify-94877\UIAVerify\uialoggingxml\obj\Debug\uialoggingxml.csprojResolveAssemblyReference.cache
+d:\Downloads\uiautomationverify-94877\UIAVerify\uialoggingxml\obj\Debug\uialoggerxml.dll
+d:\Downloads\uiautomationverify-94877\UIAVerify\uialoggingxml\obj\Debug\uialoggerxml.pdb
